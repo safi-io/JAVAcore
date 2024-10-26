@@ -76,4 +76,3 @@ public class Book {
         b1.compareChapters(b2);
     }
 }
-
