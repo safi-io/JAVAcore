@@ -1,3 +1,5 @@
+package com.LabEvaluation3;
+
 interface ecoFriendly {
     void showEcoRating();
 }
