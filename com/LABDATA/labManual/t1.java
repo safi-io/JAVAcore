@@ -1,4 +1,4 @@
-package com.Interfaces.lab11nov;
+package com.LABDATA.labManual;
 
 interface Shape {
     void getArea();

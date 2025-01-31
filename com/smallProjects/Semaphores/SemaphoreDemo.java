@@ -1,4 +1,4 @@
-package com.Semaphores;
+package com.smallProjects.Semaphores;
 import java.util.concurrent.*;
 
 class Shared

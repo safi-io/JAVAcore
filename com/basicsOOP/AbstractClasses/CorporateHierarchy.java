@@ -1,4 +1,4 @@
-package com.AbstractClasses;
+package com.basicsOOP.AbstractClasses;
 
 abstract class Employee {
     protected String name = "Generic Employee";

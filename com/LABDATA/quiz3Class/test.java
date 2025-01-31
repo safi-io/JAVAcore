@@ -1,4 +1,4 @@
-package com.quiz3;
+package com.LABDATA.quiz3Class;
 
 class UniversityUser {
     protected int id;

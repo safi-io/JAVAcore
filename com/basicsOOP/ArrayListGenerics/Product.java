@@ -1,4 +1,4 @@
-package com.ArrayListGenerics.inventoryMS;
+package com.basicsOOP.ArrayListGenerics;
 
 public class Product {
     private String productName;

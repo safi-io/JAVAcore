@@ -1,18 +1,16 @@
-package com.Interfaces.lab11nov;
+package com.LABDATA.labManual;
 
 
 interface A1 {
     default void show() {
         System.out.println("Show of A1");
     }
-
 }
 
 interface A2 {
     default void show() {
         System.out.println("Show of A2");
     }
-
 }
 
 

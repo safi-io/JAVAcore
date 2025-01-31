@@ -1,4 +1,4 @@
-package com.ArrayListGenerics.inventoryMS;
+package com.basicsOOP.ArrayListGenerics;
 
 public class Manager {
     public static void main(String[] args) {

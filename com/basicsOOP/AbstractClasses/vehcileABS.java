@@ -1,4 +1,4 @@
-package com.AbstractClasses;
+package com.basicsOOP.AbstractClasses;
 
 abstract class Vehicle {
     void display() {
@@ -15,8 +15,8 @@ class Car extends Vehicle {
 
 }
 
-public class main{
-    public static void main(String[] args) {
+public class vehcileABS{
+    public static void vehcileABS(String[] args) {
         Car c1 = new Car();
         c1.realDisplay();
         c1.display();

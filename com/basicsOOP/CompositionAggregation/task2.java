@@ -1,4 +1,4 @@
-package com.lab5;
+package com.basicsOOP.CompositionAggregation;
 
 class Book {
     private Person author;
